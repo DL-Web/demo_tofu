@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktofu=self.webpackChunktofu||[]).push([[94],{4648:function(e,t,a){a.r(t);var n=a(6771),u=(a(7294),a(516)),l=(a(4875),a(3431));t.default=function(){return(0,l.tZ)(u.H,{pageTitle:"マイページ"},(0,l.tZ)(r,null,(0,l.tZ)(i,null,(0,l.tZ)("p",null,"MypagePage"))))};var r=(0,n.Z)("section",{target:"e10nzqwe1"})({name:"opa6tk",styles:"padding:4rem 0"}),i=(0,n.Z)("div",{target:"e10nzqwe0"})({name:"g4emkr",styles:"width:96%;max-width:1366px;margin:auto"})}}]);
+//# sourceMappingURL=component---src-pages-mypage-jsx-6639c9640867661a4e5b.js.map

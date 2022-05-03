@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktofu=self.webpackChunktofu||[]).push([[617],{5675:function(t,e,a){a.r(e);var r=a(6771),n=(a(7294),a(3366)),u=a(4875),l=a(3431);e.default=function(){return(0,l.tZ)(n.H,{pageTitle:"カート"},(0,l.tZ)(i,null,(0,l.tZ)(o,null,(0,l.tZ)("p",null,"CartPage"))))};var i=(0,r.Z)("section",{target:"e11k65fk1"})("padding:4rem 0;border-bottom:1px solid ",u.I.gray100,";"),o=(0,r.Z)("div",{target:"e11k65fk0"})({name:"g4emkr",styles:"width:96%;max-width:1366px;margin:auto"})}}]);
+//# sourceMappingURL=component---src-pages-mypage-cart-jsx-750644fc7f4f33adbecc.js.map
